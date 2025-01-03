@@ -2,8 +2,8 @@
 
 | What      | Link                                                                                     |
 |-----------|------------------------------------------------------------------------------------------|
-| ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) GitHub | [https://github.com/abhishekbagde](https://github.com/abhishekbagde) |
-| ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png) LinkedIn | [https://www.linkedin.com/in/im-abhiiiiiii/](https://www.linkedin.com/in/im-abhiiiiiii/) |
+| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20"/> GitHub | [https://github.com/abhishekbagde](https://github.com/abhishekbagde) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20"/> LinkedIn | [https://www.linkedin.com/in/im-abhiiiiiii/](https://www.linkedin.com/in/im-abhiiiiiii/) |
 | Portfolio | [https://my-portfolio-sigma-nine-91.vercel.app/](https://my-portfolio-sigma-nine-91.vercel.app/) |
 
 ---

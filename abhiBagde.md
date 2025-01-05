@@ -31,6 +31,8 @@ In my free time, I enjoy going to the gym (I can deadlift 180 kgs!), cycling, wa
 
 I’ve always wanted to learn horse riding, and I’m excited to say that I’m planning to start horse riding lessons soon. Meeting new people and building meaningful connections is something I genuinely enjoy.
 
+I dream of traveling the world one day, and my ultimate retirement plan is to open a cozy little café and bakery in the countryside of Spain.
+
 ---
 
 ## Outro
